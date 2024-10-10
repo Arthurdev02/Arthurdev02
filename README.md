@@ -1,4 +1,4 @@
-# Bonjour ! Je suis Léo 👋
+# Bonjour ! Je suis Arthur 👋
 
 Bienvenue sur mon profil GitHub ! Je suis passionné par la technologie et le développement web. Actuellement, je travaille sur un projet de site web qui aide les gens à choisir leurs vêtements en fonction de la météo. J'aime créer des expériences interactives et intuitives qui facilitent la vie quotidienne.
 
