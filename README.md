@@ -1,32 +1,42 @@
-# 👋 Bonjour, je suis CAZORLA Arthur
+# Bonjour ! Je suis Léo 👋
 
-## 💻 Apprenti Développeur Full Stack en Devenir
+Bienvenue sur mon profil GitHub ! Je suis passionné par la technologie et le développement web. Actuellement, je travaille sur un projet de site web qui aide les gens à choisir leurs vêtements en fonction de la météo. J'aime créer des expériences interactives et intuitives qui facilitent la vie quotidienne.
 
-Passionné par le développement web, je suis en pleine phase d'apprentissage et de croissance. Mon objectif est de devenir un développeur full stack compétent et polyvalent.
+## À propos de moi
 
-### 🚀 Mes compétences en développement
+Je suis étudiant en développement web et je suis toujours à la recherche de nouvelles compétences à acquérir et de projets intéressants à réaliser. Je suis basé à Saleilles et j'adore explorer les dernières tendances en matière de développement et de design. En dehors de mes études et de mes projets, j'aime la lecture et le sport.
 
-#### En cours d'apprentissage approfondi
-- ⚛️ React
-- 🎭 Symfony
-- 🚀 JavaScript
-- 🐳 Docker
-- 🐘 PHP
-- 🗄️ SQL
+### Mes Valeurs
 
-#### Bases solides
-- 🌐 HTML
-- 🎨 CSS
+- **Créativité** : J'aime concevoir des solutions uniques et innovantes.
+- **Collaboration** : Travailler en équipe est essentiel pour moi, et j'apprécie les échanges d'idées.
+- **Apprentissage continu** : Je crois fermement en l'importance de l'apprentissage tout au long de la vie.
 
-#
-## 🌱 Objectifs d'apprentissage
 
-- 📊 Maîtriser les state management en React (Redux, Context API)
-- 🔒 Approfondir la sécurité web avec Symfony
-- 🚢 Déploiement continu avec Docker
-- 🧪 Tests unitaires et d'intégration
+## Compétences
 
-## 📫 Me contacter
+Je me spécialise dans les domaines suivants :
 
-- 📧 Email : 
-- 🔗 LinkedIn 
+- **Langages de programmation** :
+  - HTML
+  - CSS
+  - JavaScript
+
+- **Outils et technologies** :
+  - Git et GitHub pour la gestion de versions
+  - APIs pour l'intégration de services externes (comme Weatherbit)
+  - Frameworks et bibliothèques (si applicable)
+
+- **Design** :
+  - Création de designs futuristes et modernes
+  - Utilisation de CSS pour la mise en forme et l'animation
+
+## Me contacter
+
+Si tu souhaites échanger ou poser des questions, n'hésite pas à me contacter :
+
+- 📧 Email : [ton-email@example.com](mailto:ton-email@example.com)
+- 💼 LinkedIn : [ton-lien-LinkedIn](https://www.linkedin.com/in/ton-profile)
+- 🌐 Portfolio : [lien vers ton portfolio (si applicable)](URL_de_ton_portfolio)
+
+Merci de visiter mon profil ! Je suis impatient de collaborer et d'échanger des idées. 🚀
