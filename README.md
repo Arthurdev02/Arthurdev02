@@ -33,8 +33,7 @@ Je me spécialise dans les domaines suivants :
 
 Si tu souhaites échanger ou poser des questions, n'hésite pas à me contacter :
 
-- 📧 Email : [ton-email@example.com](mailto:ton-email@example.com)
-- 💼 LinkedIn : [ton-lien-LinkedIn](https://www.linkedin.com/in/ton-profile)
-- 🌐 Portfolio : [lien vers ton portfolio (si applicable)](URL_de_ton_portfolio)
+- 📧 Email : 
+- 💼 LinkedIn : 
 
 Merci de visiter mon profil ! Je suis impatient de collaborer et d'échanger des idées. 🚀
