@@ -18,18 +18,18 @@ Je suis étudiant en développement web et je suis toujours à la recherche de n
 Je me spécialise dans les domaines suivants :
 
 - **Langages de programmation** :
-  - HTML
-  - CSS
-  - JavaScript
+  -  🔤 HTML 
+  -  🎨 CSS
+  -  📜 JavaScript
 
 - **Outils et technologies** :
-  - Git et GitHub pour la gestion de versions
-  - APIs pour l'intégration de services externes (comme Weatherbit)
-  - Frameworks et bibliothèques (si applicable)
+  -  📝 Git et GitHub pour la gestion de versions
+  -  🌐 APIs pour l'intégration de services externes (comme Weatherbit)
+  -  🛠️ (Frameworks et bibliothèques (si applicable)
 
 - **Design** :
-  - Création de designs futuristes et modernes
-  - Utilisation de CSS pour la mise en forme et l'animation
+  -  🤖 Création de designs futuristes et modernes
+  -  🎨 Utilisation de CSS pour la mise en forme et l'animation
 
 ## Me contacter
 
