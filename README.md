@@ -1,7 +1,5 @@
 # Bonjour ! Je suis Arthur 👋
 
-Bienvenue sur mon profil GitHub ! Je suis passionné par la technologie et le développement web. Actuellement, je travaille sur un projet de site web qui aide les gens à choisir leurs vêtements en fonction de la météo. J'aime créer des expériences interactives et intuitives qui facilitent la vie quotidienne.
-
 ## À propos de moi
 
 Je suis étudiant en développement web et je suis toujours à la recherche de nouvelles compétences à acquérir et de projets intéressants à réaliser. Je suis basé à Saleilles et j'adore explorer les dernières tendances en matière de développement et de design. En dehors de mes études et de mes projets, j'aime la lecture et le sport.
