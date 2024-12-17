@@ -19,6 +19,7 @@ Je me spécialise dans les domaines suivants :
   -  🔤 HTML 
   -  🎨 CSS
   -  📜 JavaScript
+  -  PHP
 
 - **Outils et technologies** :
   -  📝 Git et GitHub pour la gestion de versions
