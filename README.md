@@ -20,6 +20,8 @@ Je me spécialise dans les domaines suivants :
   -  🎨 CSS
   -  📜 JavaScript
   -  PHP
+  -  SQL
+  -  Symphony
 
 - **Outils et technologies** :
   -  📝 Git et GitHub pour la gestion de versions
@@ -34,7 +36,6 @@ Je me spécialise dans les domaines suivants :
 
 Si tu souhaites échanger ou poser des questions, n'hésite pas à me contacter :
 
-- 📧 Email : 
-- 💼 LinkedIn : 
+- 📧 Email : arthur.cazorla@l'idem.education
 
 Merci de visiter mon profil ! Je suis impatient de collaborer et d'échanger des idées. 🚀
